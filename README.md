@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome george-downer40,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
@@ -108,3 +108,11 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+# Epic Eats London
+
+Epic Eats London is a site that provides a platform for users to share their favourite places to eat in London, be they restaurants, pubs, takeaways or food stalls. London has seen an explosion in great places to eat over the last 5 years, and this site is intended to help people share their most epic eats and find new places to try across London.
+
+Visitors to the site are able to see some of the most popular posts from its users (based on a like / favourite rating), but only registered users can create posts, like / favourite posts, and comment on other posts. The site administrator will have the ability to review posts and comments, and delete any inappropriate content. Both registered users and the site administrator will have CRUD functionality, but the registered user will only have CRUD functionality on their own posts and comments, whereas the site admin will have CRUD functionality over all content posted on the site. fc
+
+# Agile User Stories
