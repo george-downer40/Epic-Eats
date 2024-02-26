@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from ldn_epiceats.views import test_message
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('testmessage/', test_message, name='test'),
 ]
